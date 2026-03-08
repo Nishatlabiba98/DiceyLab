@@ -8,7 +8,7 @@ Dice dice = new Dice(5); // for yatzee
 
 Integer toss = dice.tossAndSum();
 ```
-make a couple unit tests for the Dice class. 
+make a couple unit tests for the Dice class.
 
 Create a tracking class Bins that can be used to track these results.
 
